@@ -82,7 +82,7 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		font-weight: 300;
+		font-weight: 1000;
 		color: #666;
 		line-height: 1.5em;
 	}
@@ -114,7 +114,7 @@
 	}
 
 	footer {
-		margin: 2em 0 0 0;
+		margin: 0 0 0 0;
 	}
 
 	strong, b {
@@ -278,6 +278,12 @@
 			float: right;
 			margin: 0 0 2em 2em;
 		}
+        
+        &.abtme {
+            float: right;
+			margin: 0 0 2em 2em;
+            width: 30%;
+        }
 
 		&.centered {
 			display: block;
@@ -686,7 +692,7 @@
 			}
 
 			&.cover {
-				padding: 6em 0;
+				padding: 0 0;
 				position: relative;
 				z-index: 0;
 				img.back {
@@ -1054,7 +1060,7 @@
 			h2 {
 				font-size: 1.5em;
 				letter-spacing: 0;
-				font-weight: 300;
+				font-weight: 900;
 			}
 
 			.container {
@@ -1107,5 +1113,20 @@
 					}
 				}
 			}
+        /* scrolly button */
+        #myBtn {
+          display:block; /* Hidden by default */
+          position: fixed; /* Fixed/sticky position */
+//          bottom: 10px; /* Place the button at the bottom of the page */
+          text-align: center;
+          border: none; /* Remove borders */
+          outline: inherit; /* Remove outline */
+          background-color: transparent; /* Set a background color */
+          color: midnightblue; /* Text color */
+//          cursor: pointer; /* Add a mouse pointer on hover */
+          padding: 15px; /* Some padding */
+          border-radius: 10px; /* Rounded corners */
+          font-size: 18px; /* Increase font size */
+        }
 
 	}

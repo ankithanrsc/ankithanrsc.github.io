@@ -1,5 +1,6 @@
 ---
-title: From Troll to Novo to Maitri
+title: Chapter 2
+name: From Troll to Novo to Maitri
 author: Ankitha
 layout: post
 ---

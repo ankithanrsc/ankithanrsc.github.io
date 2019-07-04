@@ -1214,7 +1214,7 @@ input, textarea, select {
   color: #888; }
 
 h1, h2, h3, h4, h5, h6 {
-  font-weight: 300;
+  font-weight: 1000;
   color: #666;
   line-height: 1.5em; }
 
@@ -1237,7 +1237,7 @@ header {
     margin: 1em 0 0 0; }
 
 footer {
-  margin: 2em 0 0 0; }
+  margin: 0 0 0 0; }
 
 strong, b {
   font-weight: 300;
@@ -1358,6 +1358,10 @@ section, article {
   .image.right {
     float: right;
     margin: 0 0 2em 2em; }
+  .image.abtme {
+    float: right;
+    margin: 0 0 2em 2em;
+    width: 30%; }
   .image.centered {
     display: block;
     margin: 0 0 2em 0; }
@@ -1710,7 +1714,7 @@ button,
         #main > section.dark a:hover, #main article.dark a:hover {
           border-bottom-color: rgba(255, 255, 255, 0); }
     #main > section.cover, #main article.cover {
-      padding: 6em 0;
+      padding: 0 0;
       position: relative;
       z-index: 0; }
       #main > section.cover img.back, #main article.cover img.back {
@@ -1966,7 +1970,7 @@ button,
   h2 {
     font-size: 1.5em;
     letter-spacing: 0;
-    font-weight: 300; }
+    font-weight: 900; }
 
   .container {
     padding: 0 15px 0 15px; }
@@ -1992,4 +1996,26 @@ button,
     padding: 0;
     margin: 1em 0 0 0; }
     #footer .copyright li:first-child {
-      margin-top: 0; } }
+      margin-top: 0; }
+
+  /* scrolly button */
+  #myBtn {
+    display: block;
+    /* Hidden by default */
+    position: fixed;
+    /* Fixed/sticky position */
+    text-align: center;
+    border: none;
+    /* Remove borders */
+    outline: inherit;
+    /* Remove outline */
+    background-color: transparent;
+    /* Set a background color */
+    color: midnightblue;
+    /* Text color */
+    padding: 15px;
+    /* Some padding */
+    border-radius: 10px;
+    /* Rounded corners */
+    font-size: 18px;
+    /* Increase font size */ } }

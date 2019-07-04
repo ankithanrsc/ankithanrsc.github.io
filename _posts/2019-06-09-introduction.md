@@ -1,5 +1,6 @@
 ---
-title: INTRODUCTION
+title: Chapter 1
+name: INTRODUCTION
 author: Ankitha
 layout: post
 ---

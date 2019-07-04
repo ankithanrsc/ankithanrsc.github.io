@@ -1,5 +1,6 @@
 ---
-title: Arrival at Bharati
+title: Chapter 4
+name: Arrival at Bharati
 author: Ankitha
 layout: post
 ---

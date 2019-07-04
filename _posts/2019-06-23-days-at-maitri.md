@@ -1,9 +1,8 @@
 ---
-title: Days at Maitri
+title: Chapter 3
+name: Days at Maitri
 author: Ankitha
 layout: post
-icon: fa-lightbulb
-icon-style: regular
 ---
 <h>Ever Wondered?</h>
 <p>Have you ever wondered? About how people lived on over the years so close to the poles? In Antarctica, land that was cut off from everywhere else in the world? All through my expedition, I had had the opportunity to interact with many people who haven't visited Antarctica including school children and their teachers, Engineering students, newly joining employees of ISRO, IAS and IPS officers, members of various Ministries, Parliamentary Committees, Outstanding and Distinguished scientists of ISRO including current and former chairmen of the organization and the Honorable Vice President of India. That is a wide range of human exposure but deep down, at the basic level, there was something common in most conversations... it was curiosity and wonderment. What and why, you ask? The conversations included how we maintained temperatures inside station? How we powered all the equipment? How we protected ourselves when we ventured out? How long could we stay outside with that protection? What was the temperature and wind for that particular day? What were the minimum temperatures like? How we managed our biological and sleep cycles on polar days and nights? And many more... All this apart from technical discussions related to our work and organization. When myself and my 2 colleagues were remembering our interactions before our return, I suddenly realized that we are all curious to know about a place that has been discovered and being explored only since a few decades. Even I am, because 13 months wouldn't be sufficient to know about the dangerous beauty or serene wilderness of Antarctica. But I will share with you all I learnt from my expedition.</p>
