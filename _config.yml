@@ -35,7 +35,7 @@ subtitle:
 description: Come Explore with me
   
 author: Ankitha E
-email: ankitha111reddy@gmail.com
+email: flyingwandress@gmail.com
 avatar: assets/images/avatar.jpg
 
 # You'll want to customize url and baseurl for your own site:
@@ -47,13 +47,12 @@ url: "" # the base hostname & protocol for your site
 twitter_url:
 facebook_url:
 googleplus_url:
-instagram_url:
-linkedin_url:
-github_url:
+instagram_url: "https://www.instagram.com/ankithareddy_e/"
+linkedin_url: "https://www.linkedin.com/in/ankitha-reddy-50b6865a/"
+github_url: "https://github.com/ankithanrsc/ankithanrsc.github.io"
 pinterest_url:
 slack_url:
 dribbble_url:
-
 # Google Analytics Tracking ID goes here:
 google_analytics:
 
