@@ -29,12 +29,12 @@ The groups report at NCPOR, Goa as per their schedule. They undergo orientation 
 
 <p>The flying team finally departs to ALCI Airbase @ Novo Runway, Antarctica by flight. After a journey of about 6.5 Hrs, the flight lands on the Blue Ice runway. Here begin the days filled with snow and serenity.</p>
 
-<h> The Start In Goa</h>
+<h3> The Start In Goa</h3>
 <p>And the departure from Hyderabad had many members of my family seeing me off for something we were all excited about. I believe there was sadness, pride, excitement and the fear of unknown. This marked the beginning of my long departure from home. We reported to NCPOR, Goa on October 16th, 2017. We went through our orientation on the Indian stations in Antarctica, the history and systems, the Antarctic Treaty, environmental aspects, cleanliness and maintenance of station and surroundings, Food and Health, common issues faced and prevention measures to stay healthy..., etc. We trained for firefighting with theoretical class followed by hands-on fire extinguishing session. </p>
 
 <p>We also had time to go around in the tourist destination and experience the beautiful beaches and forts of North Goa before departing from Goa on 30th October, 2017. We reached Capetown on the night of 31st October, 2017 and the journey in itself was another adventure.</p>
 
-<h>Capetown</h>
+<h3>Capetown</h3>
 <p>After a long tiresome journey, we were received at the Capetown Airport. We bought dinner on the way and headed straight to our hotel - Lagoon Beach Hotel. The hotel was on the banks of South Atlantic Ocean and the beach was just like your backyard. I have long since been in love with beaches for they always calm me. I was excited to see the view and marked to wake up early and enjoy this beauty. But well, who would wait so long, i looked through the window, the dark sea with only the lights of ships visible. As I watched and heard the wonderful sound of each wave meeting the coast, the night's breeze swiftly welcomed with kissing my cheeks and making me smile. It reminded me of how I dreamt to live in a beach house and my first visit to one such house in Kerala which was just about 50 yards off the coast.</p>
 
 <p>Next morning, we visited The Indian Embassy, Capetown and ALCI office and dropped in our luggage to be loaded on the flight to Antarctica. With the hotel on the outskirts of the city, we came early everyday after some sightseeing. And the beach always welcomed us with lovely breeze. We would walk along the beach, looking at the sun set for the day and lose track of time. There were so many stories all around us, families sitting together, couples walking hand in hand with a smile, group of friends playing by the beach, people walking and playing with pets, children running along the waves throwing a challenge to touch them and surfers gliding along and into the waves. There is something about beaches, and evenings, and sunsets, and the carefree souls smiling.</p>
