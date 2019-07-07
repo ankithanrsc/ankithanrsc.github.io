@@ -13,7 +13,7 @@ layout: post
 <div class="row"> 
   <div class="column">
     <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch5/arch8.jpg">
-<!--      <h3 style="font-size:15px;"></h3>-->
+      <h3 style="font-size:15px;">Bof Architekten</h3>
     <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch5/bhsnow.jpg">
 <!--      <h3 style="font-size:15px;"></h3>-->
     <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch5/nidhin_bh.JPG">
@@ -21,7 +21,7 @@ layout: post
   </div>
   <div class="column">
     <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch5/arch9.jpg">
-<!--      <h3 style="font-size:15px;"></h3>-->
+      <h3 style="font-size:15px;">Bof Architekten</h3>
     <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch5/bhpb.JPG">
       <h3 style="font-size:15px;">Pisten Bullys</h3>
     <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch5/snowbh.jpg">
@@ -54,7 +54,7 @@ layout: post
 <div class="row"> 
   <div class="column">
     <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch5/corridor.JPG">
-<!--      <h3 style="font-size:15px;"></h3>-->
+      <h3 style="font-size:15px;">Corridor and rooms</h3>
     <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch5/priyankar_scuva.jpg">
       <h3 style="font-size:15px;">Scuva by Dr Priyankar</h3>
     <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch5/john_sp.JPG">
@@ -85,7 +85,7 @@ layout: post
       <h3 style="font-size:15px;">36-ISEA Bharati Winter Team</h3>
   </div>
 </div>
-
+<br>
 <h3>First Outing</h3>
 <p>After takeover, when we first went out, it was snowing. Serene white powdery blankets was all that was there. In the snow, we walked like little toddlers who just started walking, occasionally catching glimpse of the summer migratory birds. Among the others, mainly 3 bird species migrate to this part of the continent, the scuva, snow petrels and the storm petrels. We had seen scuva even in Maitri, but the other two species weren’t there. Snow petrels, as the name says, are white and beautiful . While, storm petrels, go by the name flying swift like a storm. Even when the winds and snowfalls seem little harsh to humans, we would see them out with open wings. They come here and stay in the rocks of island that have been carved over the centuries by winds, to give them idea rock nests. They breed in summers and migrate back on the onset of winter. </p>  
 
