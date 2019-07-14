@@ -41,9 +41,9 @@ Oh yeah!! On our first ever outing. And I should say, IT WAS SNOWONDERFUL! There
   <div class="column">
     <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch6/snowmansuku.JPG">
       <h3 style="font-size:15px;">PC: Dr.Sukumar<br>(His first snowman at Bharati)</h3>
-    <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch5/snowy.JPG">
+    <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch6/snowy.JPG">
 <!--      <h3 style="font-size:15px;"></h3>-->
-    <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch5/stairs.JPG">
+    <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch6/stairs.JPG">
       <h3 style="font-size:15px;">PC: Dr.Sukumar</h3>
     </div>
 </div>
@@ -56,6 +56,8 @@ Oh yeah!! On our first ever outing. And I should say, IT WAS SNOWONDERFUL! There
   <div class="column">
     <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch6/pan1.JPG">
 <!--      <h3 style="font-size:15px;"></h3>-->
+    <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch6/pan2.JPG">
+<!--      <h3 style="font-size:15px;"></h3>-->
     <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch6/bhview.JPG">
 <!--      <h3 style="font-size:15px;"></h3>-->
   </div>
@@ -65,6 +67,12 @@ Oh yeah!! On our first ever outing. And I should say, IT WAS SNOWONDERFUL! There
     <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch6/memam.JPG">
       <h3 style="font-size:15px;">With my handoverer</h3>
   </div> 
+  <div class="column">
+    <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch6/arrival2mam.jpeg">
+      <h3 style="font-size:15px;">The arriving team<br>PC: Dr.Sejal Tambat</h3>
+    <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch6/arrival3mam.jpeg">
+      <h3 style="font-size:15px;">PC: Mantosh Kumar</h3>
+  </div>
   <div class="column">
     <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch6/byebye.JPG">
       <h3 style="font-size:15px;">get set..ready..go</h3>
