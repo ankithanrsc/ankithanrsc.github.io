@@ -706,6 +706,15 @@
 					top: 0;
 					z-index: -1;
 				}
+				img.blog {
+					position: absolute;
+					object-fit: cover;
+					width: 100%;
+					height: auto;
+					left: 0;
+					top: 0;
+					z-index: -1;
+				}
 			}
 
 			&.shade-one {

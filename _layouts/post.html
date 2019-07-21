@@ -6,6 +6,9 @@ layout: default
 <!-- Main -->
 <div id="main">
 	<!-- Post -->
+    {%- if page.cover-photo != "" -%}
+        {%- include blogpost.html photo=page.cover-photo photo-alt=page.cover-photo-alt -%}
+	{%- endif -%}
 	<article class="shade-two">
 	  <div class="container">
 			<header>

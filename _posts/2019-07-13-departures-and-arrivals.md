@@ -2,9 +2,10 @@
 title: Chapter 6
 name: Departures & Arrivals
 author: Ankitha
+cover-photo: https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch6/pan1.JPG
+cover-photo-alt: Chapter 6
 layout: post
 ---
-
 <p>Where were we last week? <br>
 
 . . . . .<br>

@@ -2,6 +2,8 @@
 title: Chapter 5
 name: Bharati - My New Home
 author: Ankitha
+cover-photo: https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch5/terracepan.JPG
+cover-photo-alt: Chapter 5
 layout: post
 ---
 

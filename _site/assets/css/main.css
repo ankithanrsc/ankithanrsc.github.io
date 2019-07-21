@@ -1726,6 +1726,14 @@ button,
         left: 0;
         top: 0;
         z-index: -1; }
+      #main > section.cover img.blog, #main article.cover img.blog {
+        position: absolute;
+        object-fit: cover;
+        width: 100%;
+        height: auto;
+        left: 0;
+        top: 0;
+        z-index: -1; }
     #main > section.shade-one, #main article.shade-one {
       background-color: #81918E; }
     #main > section.shade-two, #main article.shade-two {
