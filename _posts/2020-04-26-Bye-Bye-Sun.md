@@ -81,6 +81,8 @@ layout: post
 
 <p>Thats it. Thats when our polar nights started.</p>
 
+<div align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZDz5NPX0-PE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 </div>
