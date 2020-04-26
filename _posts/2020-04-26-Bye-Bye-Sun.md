@@ -2,7 +2,7 @@
 title: Chapter 10
 name: Bye Bye Sun!
 author: Ankitha
-cover-photo: https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch10/lastsunrisenset.JPG
+cover-photo: https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch10/ch10cover.JPG
 cover-photo-alt: Chapter 10
 layout: post
 ---
@@ -17,17 +17,26 @@ layout: post
   <div class="column">
     <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch10/ship.JPG">
       <h3 style="font-size:15px;">Glowing in the dark!<br>PC: Jyotish K.Jayachandran</h3>
-    <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch10/adelie.JPG">
-      <h3 style="font-size:15px;">The little ones! Adelie penguins</h3>
-    <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch10/emporerPingus.JPG">
-    <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch10/emporer.jpg">
-      <h3 style="font-size:15px;">Emporer penguins<br>PC: Jyotish K.Jayachandran</h3>
+    <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch10/findemporergrp.JPG">
+      <h3 style="font-size:15px;">The Sea and islands</h3>
   </div>
   <div class="column">
-    <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch10/findemporergrp.JPG">
-    <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch10/helloPingu.JPG">
+    <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch10/adelie.JPG">
+      <h3 style="font-size:15px;">The little ones! Adelie penguins</h3>
     <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch10/epingu.JPG">
-    <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch10/frozenlake.JPG">
+      <h3 style="font-size:15px;">We looked at it and knew right away we had native visitors!</h3>
+  </div> 
+  <div class="column">
+    <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch10/emporerPingus.JPG">
+      <h3 style="font-size:15px;">Just a group of emporers</h3>  
+    <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch10/helloPingu.JPG">
+      <h3 style="font-size:15px;">Hello! Did we meet?</h3>  
+  </div>
+  <div class="column">
+    <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch10/emporer.jpg">
+      <h3 style="font-size:15px;">Emporer penguins<br>PC: Jyotish K.Jayachandran</h3>
+    <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch10/frozenLake.JPG">
+      <h3 style="font-size:15px;">Frozen Lake</h3>
   </div> 
 </div>
 
@@ -43,25 +52,28 @@ layout: post
 <div class="row"> 
   <div class="column">
     <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch10/ct.JPG">
-    <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch10/ct2.JPG">
-    <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch10/lastsunrisenset.JPG">
-      <h3 style="font-size:15px;">Winter is coming..</h3>
-    <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch10/corrdiors.jpg">
-  </div>
-  <div class="column">
-    <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch10/sunCorr.JPG">
+    <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch10/sunCorr.JPG"> 
       <h3 style="font-size:15px;">Barging into the corridors from the North!</h3>
-    <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch10/huesofsky.JPG">
-    <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch10/games.JPG">
-    <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch10/aur1.JPG">
-      <h3 style="font-size:15px;">PC: Jyotish K.Jayachandran</h3>
   </div>
   <div class="column">
-    <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch10/aur2.JPG">
-      <h3 style="font-size:15px;">PC: Jyotish K.Jayachandran</h3>
+    <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch10/ct2.JPG"> 
+    <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch10/huesofsky.JPG">
     <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch10/aur3.JPG">
       <h3 style="font-size:15px;">PC: Jyotish K.Jayachandran</h3>
-    <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch10/ttroom.jpg">
+      
+  </div>
+  <div class="column">
+    <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch10/lastsunrisenset.JPG">
+      <h3 style="font-size:15px;">Winter is coming..</h3>
+    <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch10/games.JPG">
+      <h3 style="font-size:15px;">Celebrations</h3>
+  </div> 
+  <div class="column">
+    <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch10/corridors.JPG">
+    <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch10/aur1.JPG">
+      <h3 style="font-size:15px;">PC: Jyotish K.Jayachandran</h3>
+    <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch10/aur2.JPG">
+      <h3 style="font-size:15px;">PC: Jyotish K.Jayachandran</h3>
   </div> 
 </div>
 
