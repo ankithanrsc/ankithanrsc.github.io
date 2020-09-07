@@ -19,7 +19,7 @@
 	{%- assign _class = 'shade-one cover dark' -%}
 {%- else -%}
 	{%- assign _photo = '' -%}
-	{%- capture _class -%}shade-{%- cycle 'two', 'three', 'four', 'three' -%}{%- endcapture -%}
+	{%- capture _class -%}shade-{%- cycle 'two', 'three', 'four' -%}{%- endcapture -%}
 {%- endif -%}
 
 {%- if include.auto-header == 'none' -%}

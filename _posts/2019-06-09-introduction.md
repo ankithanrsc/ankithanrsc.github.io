@@ -2,6 +2,8 @@
 title: Chapter 1
 name: INTRODUCTION
 author: Ankitha
+cover-photo: https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch1/ch1cover.JPG
+cover-photo-alt: Chapter 1
 layout: post
 ---
 
@@ -33,6 +35,31 @@ The groups report at NCPOR, Goa as per their schedule. They undergo orientation 
 <p>And the departure from Hyderabad had many members of my family seeing me off for something we were all excited about. I believe there was sadness, pride, excitement and the fear of unknown. This marked the beginning of my long departure from home. We reported to NCPOR, Goa on October 16th, 2017. We went through our orientation on the Indian stations in Antarctica, the history and systems, the Antarctic Treaty, environmental aspects, cleanliness and maintenance of station and surroundings, Food and Health, common issues faced and prevention measures to stay healthy..., etc. We trained for firefighting with theoretical class followed by hands-on fire extinguishing session. </p>
 
 <p>We also had time to go around in the tourist destination and experience the beautiful beaches and forts of North Goa before departing from Goa on 30th October, 2017. We reached Capetown on the night of 31st October, 2017 and the journey in itself was another adventure.</p>
+
+<div class="row"> 
+  <div class="column">
+    <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch1/1.JPG">
+      <h3 style="font-size:15px;"></h3>
+    <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch1/5.JPG">
+      <h3 style="font-size:15px;"></h3>
+    <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch1/9.JPG">
+      <h3 style="font-size:15px;"></h3>
+  </div>
+  <div class="column">
+    <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch1/2.JPG">
+    <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch1/6.JPG">
+    <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch1/10.JPG">
+  </div> 
+  <div class="column">
+    <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch1/3.JPG">
+    <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch1/7.JPG">
+  </div>
+  <div class="column">
+    <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch1/4.jpg">
+    <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch1/8.JPG">
+  </div> 
+</div>
+<p></p>
 
 <h3>Capetown</h3>
 <p>After a long tiresome journey, we were received at the Capetown Airport. We bought dinner on the way and headed straight to our hotel - Lagoon Beach Hotel. The hotel was on the banks of South Atlantic Ocean and the beach was just like your backyard. I have long since been in love with beaches for they always calm me. I was excited to see the view and marked to wake up early and enjoy this beauty. But well, who would wait so long, i looked through the window, the dark sea with only the lights of ships visible. As I watched and heard the wonderful sound of each wave meeting the coast, the night's breeze swiftly welcomed with kissing my cheeks and making me smile. It reminded me of how I dreamt to live in a beach house and my first visit to one such house in Kerala which was just about 50 yards off the coast.</p>

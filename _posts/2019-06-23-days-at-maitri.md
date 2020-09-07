@@ -2,6 +2,8 @@
 title: Chapter 3
 name: Days at Maitri
 author: Ankitha
+cover-photo: https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch3/ch3cover.JPG
+cover-photo-alt: Chapter 3
 layout: post
 ---
 <h3>Ever Wondered?</h3>
@@ -9,6 +11,33 @@ layout: post
 
 <h3>The first night at Maitri</h3>
 <p>By the time we arrived at Maitri, the Antarctic day length was 23 hrs with the sun going below horizon for only an hour. So practically, there was no darkness even in the night. The first night in Antarctica was different, with low howling sounds of wind singing lullabies until the gust made a fierce blow. And I woke up few times to check if something happened until I finally understood it was the gust. Mornings started by as early as 06:00 AM for most members and when people walk the corridors in Maitri, you feel it in your room. I started spending time in the kitchen and dining, making new friends. Morning meetings were held by the station leader, everyday at 08:00 AM and all members except the ones on galley off were to attend the meetings to discuss day-to-day activities and other information.</p> 
+
+
+
+<div class="row"> 
+  <div class="column">
+    <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch3/0.JPG">
+      <h3 style="font-size:15px;"></h3>
+  </div>
+</div>
+
+<div class="row"> 
+  <div class="column">
+    <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch3/1.JPG">
+      <h3 style="font-size:15px;"></h3>
+    <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch3/4.JPG">
+      <h3 style="font-size:15px;"></h3>
+  </div>
+  <div class="column">
+    <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch3/2.JPG">
+    <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch3/5.JPG">
+  </div> 
+  <div class="column">
+    <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch3/3.JPG">
+    <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch3/6.JPG">
+  </div>
+</div>
+<p></p>
 
 <h3>Welcoming Blizzards and Shramdaans</h3>
 <p>The first 2 days went by observing the activities of station, getting accustomed to the systems and the climate. And we brought with ourselves a series of blizzards. And there it was, my first experience of a blizzard welcoming us to this land. Clear skies turned cloudy, gentle winds turned strong, carrying with them the soft snow lazily deposited on their way, along with the snow falling fresh. Their strength hitting the station hard for being an obstruction.</p>
@@ -31,6 +60,30 @@ layout: post
 <p>But why did I mention it if there was no internet? Well, one of our colleague arrived early to check and try to resolve the issues at Maitri end in coordination with NCPOR. So, he had a special welcome, with everyone looking up to him to do some magic, some hoping he would and some, hopeless. And he being a person who works with so much passion, he was on job soon after arriving. We assisted him while he worked for less than a day before he could connect Maitri to the world of internet. Everyone clapped for him, praised and appreciated him for giving them something they didnt hope for. They were grateful for the efforts NCPOR made and tried to make the best of it by first speaking to their families heartfully without counting minutes (Apart from internet, through satellite phone, members were allotted 20 minutes a month from March to November and 6 minutes per month from December to February). The station was now in a different state, with happiness and appreciation filled in members' hearts and admiration for the person who made it possible, named 'Saravanan'.</p>
 
 <p>But the happiness din't stay long. After about half a day, the connection was lost. Now, the internet man was back on action and we were back in assistance. Once again, he established the connection which lasted only for a few hours. Again, back on job, but this time, there was no re-connection. Discussions for further measures to solve the issue were discussed but in Antarctica, you don't have retail stores, amazon etc where anything you want can be bought right away.</p>
+
+
+
+<div class="row"> 
+  <div class="column">
+    <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch3/7.JPG">
+      <h3 style="font-size:15px;"></h3>
+    <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch3/11.JPG">
+      <h3 style="font-size:15px;"></h3>
+  </div>
+  <div class="column">
+    <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch3/8.JPG">
+    <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch3/12.JPG">
+  </div> 
+  <div class="column">
+    <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch3/9.JPG">
+    <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch3/13.JPG">
+  </div>
+  <div class="column">
+    <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch3/10.JPG">
+    <img src="https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch3/14.JPG">
+  </div>
+</div>
+<p></p>
 
 <h3>Time for Departure</h3>
 <p>We had splendid 20 days at Maitri, making new friends, playing games, doing shramdaans, feeling the blizzard and the silence after it left, visiting surroundings, playing with snow, walking on frozen lake and watching a little penguin. The madICE team had already left with a convoy. The blizzards gave only one flying windows in these 20 days. And 4 of us travelled to Bharati in that window. Now, it was time for our journey ahead. Bharati is at about 3000 kms east of Maitri and 2300 kms from south pole. The Basler flight (BT67) takes about 9-11 hours and would stop midway for refueling. Mind you, this is a feeder flight and its nothing like regular flights. Its a small flight that can take a maximum payload of about 3 ton and seating capacity of 18 pax. There are no facilities like toilet or air conditioning or luxury seats in a BT67. People eat less and some even go low on hydration one day before they take this flight. And some also sleep less hoping to go through part of their flight sleeping. We left early in the morning for Novo airbase. The flight was already there by the time we reached. But to take off from Novo, we needed clearance from Showa airbase for landing... Due to a recent blizzard, soft snow has accumulated on the airstrip that has to be cleared up for landing. We waited for about 3-4 hours at Novo before we got the clearance and flew. I slept straight through the first lap until we landed at Showa airstrip for refueling.</p>
