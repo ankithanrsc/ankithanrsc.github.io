@@ -1,5 +1,5 @@
 ---
-title: Chapter 4
+title: 4 - Arrival at Bharati
 name: Arrival at Bharati
 author: Ankitha
 cover-photo: https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch4/ch4cover.JPG

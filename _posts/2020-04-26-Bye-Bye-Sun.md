@@ -1,5 +1,5 @@
 ---
-title: Chapter 10
+title: 10 - Bye Bye Sun
 name: Bye Bye Sun!
 author: Ankitha
 cover-photo: https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch10/ch10cover.JPG

@@ -1,5 +1,5 @@
 ---
-title: Chapter 11
+title: 11 - Polar Nights
 name: Polar Nights!
 author: Ankitha
 cover-photo: https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch11/cover.jpg

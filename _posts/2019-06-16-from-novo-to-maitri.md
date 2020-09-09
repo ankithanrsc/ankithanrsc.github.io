@@ -1,5 +1,5 @@
 ---
-title: Chapter 2
+title: 2 - Troll-Novo-Maitri
 name: From Troll to Novo to Maitri
 author: Ankitha
 cover-photo: https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch2/ch2cover.JPG

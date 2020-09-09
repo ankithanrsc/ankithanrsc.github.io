@@ -1,5 +1,5 @@
 ---
-title: Chapter 6
+title: 6 - Departures & Arrivals
 name: Departures & Arrivals
 author: Ankitha
 cover-photo: https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch6/pan1.JPG

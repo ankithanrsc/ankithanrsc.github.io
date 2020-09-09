@@ -1,9 +1,9 @@
 ---
-title: Chapter 7
+title: 7 - New beginnings
 name: New team & Celebrations
 author: Ankitha
 cover-photo: https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch7/pb2.JPG
-cover-photo-alt: Chapter 6
+cover-photo-alt: Chapter 7
 layout: post
 ---
 

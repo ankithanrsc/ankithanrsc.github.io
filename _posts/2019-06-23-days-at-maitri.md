@@ -1,5 +1,5 @@
 ---
-title: Chapter 3
+title: 3 - Days at Maitri
 name: Days at Maitri
 author: Ankitha
 cover-photo: https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch3/ch3cover.JPG

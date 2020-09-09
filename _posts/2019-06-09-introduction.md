@@ -1,5 +1,5 @@
 ---
-title: Chapter 1
+title: 1 - Introduction
 name: INTRODUCTION
 author: Ankitha
 cover-photo: https://raw.githubusercontent.com/ankithanrsc/ankithanrsc.github.io/master/assets/images/ch1/ch1cover.JPG
@@ -82,3 +82,4 @@ The groups report at NCPOR, Goa as per their schedule. They undergo orientation 
 <p></p>
 
 <p>After 3 days, we left Lagoon and then, left Capetown for Antarctica on 03rd November' 2017. I was so much excited to see and touch the snow, of how it would feel to stand on the icy continent and to breathe its air. We boarded a Boeing with Japanese and Norwegian friends eager for the journey to start.</p>
+
